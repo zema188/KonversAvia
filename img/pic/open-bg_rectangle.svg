@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="51px" viewBox="0 0 1920 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Rectangle</title>
+    <defs>
+        <path d="M0,51 L1920,51 C1920,22.8334778 1897.16652,-5.1741062e-15 1869,0 L1459.8282,0 C1441.65396,1.38960689e-13 1424.19218,7.06847332 1411.13546,19.7106646 L1379.85296,50 L1379.85296,50 L1348.57046,19.7106646 C1335.51374,7.06847332 1318.05196,2.38245977e-13 1299.87772,0 L0,0 L0,0 L0,51 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bg">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle" fill="#FFFFFF" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

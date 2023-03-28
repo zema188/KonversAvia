@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="11px" viewBox="0 0 10 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path</title>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-desktop" transform="translate(-140.000000, -905.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="scroll-bar" transform="translate(135.000000, 901.000000)">
+                <path d="M9.28571429,14.1375 L9.35,14.1375 L9.49285714,14.28975 C9.62697614,14.4270017 9.80954462,14.5042038 10,14.5042038 C10.1904554,14.5042038 10.3730239,14.4270017 10.5071429,14.28975 L10.65,14.1375 L10.7142857,14.1375 L10.7142857,14.07225 L14.7928571,9.93975 L13.7785714,8.91025 L10.7142857,12.02775 L10.7142857,4.35 L9.28571429,4.35 L9.28571429,12.02775 L6.22142857,8.91025 L5.20714286,9.93975 L9.28571429,14.07225 L9.28571429,14.1375 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

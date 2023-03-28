@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="29px" viewBox="0 0 20 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Shape</title>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-desktop" transform="translate(-135.000000, -901.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="scroll-bar" transform="translate(135.000000, 901.000000)">
+                <path d="M10,29 C15.5228475,29 20,24.4556902 20,18.85 L20,10.15 C20,4.54430979 15.5228475,0 10,0 C4.4771525,0 0,4.54430979 0,10.15 L0,18.85 C0,24.4556902 4.4771525,29 10,29 L10,29 Z M1.42857143,10.15 C1.42857143,5.34512273 5.26613077,1.45000013 10,1.45000013 C14.7338692,1.45000013 18.5714286,5.34512273 18.5714286,10.15 L18.5714286,18.85 C18.5714286,23.6548773 14.7338692,27.5499999 10,27.5499999 C5.26613077,27.5499999 1.42857143,23.6548773 1.42857143,18.85 L1.42857143,10.15 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

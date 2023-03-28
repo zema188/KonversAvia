@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="338px" height="70px" viewBox="0 0 338 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Rectangle</title>
+    <defs>
+        <linearGradient x1="97.9339158%" y1="52.9615195%" x2="4.35003406%" y2="45.9598236%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.4" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="38.6146812%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.366682146" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-desktop" transform="translate(-135.000000, -692.000000)" stroke="url(#linearGradient-1)">
+            <g id="Button" transform="translate(135.000000, 692.000000)">
+                <path d="M332,0.5 C333.518783,0.5 334.893783,1.11560847 335.889087,2.1109127 C336.884392,3.10621694 337.5,4.48121694 337.5,6 L337.5,40 C337.5,48.1462001 334.1981,55.5212001 328.85965,60.85965 C323.5212,66.1981 316.1462,69.5 308,69.5 L6,69.5 C4.48121694,69.5 3.10621694,68.8843915 2.1109127,67.8890873 C1.11560847,66.8937831 0.5,65.5187831 0.5,64 L0.5,30 C0.5,21.8537999 3.80189997,14.4787999 9.14034995,9.14034995 C14.4787999,3.80189997 21.8537999,0.5 30,0.5 Z" id="Rectangle"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="256px" height="2px" viewBox="0 0 256 2" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Path">
+    <path d="M0.5 1L255.5 1" id="Path" fill="none" fill-rule="evenodd" stroke="#979797" stroke-width="1" stroke-linecap="round" stroke-dasharray="0 3" />
+  </g>
+</svg>
